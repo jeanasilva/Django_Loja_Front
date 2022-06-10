@@ -1,4 +1,5 @@
-# djackets_vue
+# Django_Loja_Front
+
 
 ## Project setup
 ```
